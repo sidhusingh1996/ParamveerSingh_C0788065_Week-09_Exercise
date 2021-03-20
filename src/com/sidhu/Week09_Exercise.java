@@ -5,5 +5,6 @@ public class Week09_Exercise {
         // Give a string to count each word from it.
         String Str = "hello hello how are you HELLO are there happy test you";
 
+        Str = Str.toLowerCase();                         // Convert the string into lower case
     }
 }
